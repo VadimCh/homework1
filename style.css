@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+.name{
+	font-family: Arial;
+	margin: 0 0 0 275px;
+	font-size: 30px;
+	padding-top: 50px
+}
+
+.userphoto{
+width: 200px;
+height:200px;
+border: 1px solid black;
+text-align: center;
+margin: 21px 0 0 400px;
+}
+
+
+.status{
+	font-family: Arial;
+	margin: 0 0 0 275px;
+	color: grey;
+	padding-top: 20px;
+}
+
+
+.frontend{
+	font-family: Arial;
+	margin: 0 0 0 275px;
+}
+
+
+hr {
+    border: none; /* Убираем границу */
+    background-color: grey; /* Цвет линии */
+    color: grey; /* Цвет линии для IE6-7 */
+    height: 1px; /* Толщина линии */
+    margin: 20px;
+    width: 500px;
+
+   }
+
+   ul{
+   	padding: 20px 30px;
+   }
+
+   .phone{
+   	font-family: Arial;
+
+   }
+
+  .phone ul{
+  	list-style-type: none;
+	} 
+
+	.vkprofile ul{
+list-style-type: none;
+color: blue;
+text-decoration: underline;
+font-style: italic; 
+	}
+
+	.feedback ul{
+		list-style-type: none;
+	}
+
+
+
